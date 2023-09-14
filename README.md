@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1>FLAC Checker</h1>
+<h1>Corrupted FLAC Checker</h1>
 
 <h2>Description</h2>
 <p>FLAC Checker is a tool designed to efficiently identify and handle potentially corrupted FLAC audio files in your collection. FLAC files, while a popular lossless audio format, can become corrupted due to various reasons such as incomplete internet downloads, interruptions during file transfers, disk errors, or other unexpected scenarios. Manually identifying these files in a large collection can be tedious. FLAC Checker streamlines this process, making it easier to maintain the integrity of your FLAC collection.</p>
